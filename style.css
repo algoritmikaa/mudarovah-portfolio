@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;}
+
+header{
+    background-color:rgb(144, 235, 126);
+    padding:50px;
+}
+
+header a{
+    text-decoration: none;
+    color:black;
+    background-color:white;
+    padding:10px;
+    font-size:25px;
+}
+
+h1{
+    text-align: center;
+    color:black;
+    background-color:white;
+    padding:10px;
+    font-size:75px;
+}
+
+li{
+    font-size: 25px;
+}
+
+p{
+    font-size:25px;
+    margin-left:50px;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    border:1px solid black;
+    padding:10px;
+    font-size:20px;
+    color:black;
+    margin-top:10px;
+}
